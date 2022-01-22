@@ -1,7 +1,7 @@
 # Loginsystem
 I developed this login system using python with django framework basically contains the signin,signup,reset password,forget password functionalities.
 SETUP VIRTUAL VENV
- Navigate to where you want to keep your django projects. I use D://DjangoProjects/
+ Navigate to where you want to keep your django projects.
  Create  folder or whatever you want to name the project.
  Create a virtual environment to run the project in.
  Typically I call it "venv" but you can call it something else if you like. Doesn't matter. djangoproject_venv for example.
